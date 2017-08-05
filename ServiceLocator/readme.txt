@@ -1,0 +1,2 @@
+The service locator pattern says that inversion of control is achieved by having components get their dependencies through an external component known as the service locator. Sometimes a service
+locator is a very specifc interface, with strongly typed requests for specifc services, and sometimes it may show up as a very generic way to request services of any arbitrary type.
